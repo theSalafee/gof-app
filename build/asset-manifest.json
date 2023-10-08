@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1bd41025.css",
+    "main.js": "/static/js/main.ff4293b3.js",
+    "static/media/wallpaperflare.com_wallpaper (4).jpg": "/static/media/wallpaperflare.com_wallpaper (4).6eb892465b57bf873754.jpg",
+    "index.html": "/index.html",
+    "main.1bd41025.css.map": "/static/css/main.1bd41025.css.map",
+    "main.ff4293b3.js.map": "/static/js/main.ff4293b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bd41025.css",
+    "static/js/main.ff4293b3.js"
+  ]
+}
