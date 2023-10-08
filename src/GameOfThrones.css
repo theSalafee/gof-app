@@ -1,0 +1,38 @@
+/* GameInfo.css */
+
+.game-info-container {
+    background-color: #34495e;
+    color: #ecf0f1;
+    text-align: center;
+    padding: 40px;
+    margin: 20px auto;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    max-width: 600px;
+  }
+  
+  .game-info-title {
+    font-size: 24px;
+    margin: 0 0 20px 0;
+  }
+  
+  .game-info-text {
+    font-size: 16px;
+    margin: 0 0 20px 0;
+  }
+  
+  .explore-button {
+    background-color: #e74c3c;
+    color: #ecf0f1;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .explore-button:hover {
+    background-color: #c0392b;
+  }
+  
